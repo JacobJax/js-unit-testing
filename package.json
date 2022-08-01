@@ -1,0 +1,23 @@
+{
+  "name": "jstests",
+  "version": "1.0.0",
+  "description": "Learning testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobJax/lr-js-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobJax/lr-js-tests/issues"
+  },
+  "homepage": "https://github.com/JacobJax/lr-js-tests#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
