@@ -1,2 +1,2 @@
-# lr-js-tests
+# 🧪JS Unit testing
 Learning testing with Jest
